@@ -1,4 +1,4 @@
-SvSaveToCameraRoll
+SvSaveToCameraRoll //导入图片和视频到模拟器
 ==================
 
 batch copy image &amp; movie to IOS's system camera roll
